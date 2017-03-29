@@ -1,0 +1,6 @@
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\bin\Debug\DesignPatten.exe.config
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\bin\Debug\DesignPatten.exe
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\bin\Debug\DesignPatten.pdb
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\obj\Debug\DesignPatten.csprojResolveAssemblyReference.cache
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\obj\Debug\DesignPatten.exe
+C:\Users\haojingyu\Documents\Visual Studio 2012\Projects\DesignPatten\DesignPatten\obj\Debug\DesignPatten.pdb
